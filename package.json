@@ -1,0 +1,10 @@
+{
+  "name": "lru-cache",
+  "version": "1.0.0",
+  "description": "Simple LRU Cache implementation in JavaScript",
+  "main": "src/LRUCache.js",
+  "scripts": {
+    "test": "node test/example.js"
+  },
+  "license": "MIT"
+}
